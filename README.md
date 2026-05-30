@@ -25,7 +25,7 @@ one
 footnote[^1]
 footnote[^2]
 
-[cornholio](img/cornholio.jpg)
+![cornholio](https://i.pinimg.com/736x/ed/4e/2a/ed4e2a651436f102c18d08d1a52dfd7b.jpg)
 
 [^1]: text footnote 1
 [^2]: text footnote 2
